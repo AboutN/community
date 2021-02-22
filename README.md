@@ -1,2 +1,2 @@
-# bbs
-论坛
+# community
+社区平台
